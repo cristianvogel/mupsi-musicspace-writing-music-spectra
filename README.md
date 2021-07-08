@@ -2,4 +2,4 @@
 # Sound and Music Innovation
 ## Uncoventional Computing in Arts and Philosophy
 ## MuPsi
-Repository for some of my technical and creative writing and music research realating to Mu-Psi and Music Space
+Repository for some of my technical creative writing and compositional research in Mu-Psi and Music Space
